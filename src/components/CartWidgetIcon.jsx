@@ -1,10 +1,10 @@
-import { FaCartPlus } from "react-icons/fa6";
-import { TfiShoppingCart } from "react-icons/tfi";
+import { Badge } from "react-bootstrap";
 import { TiShoppingCart } from "react-icons/ti";
+
 const CartWidgetIcons = () => {
     return <div>
         <TiShoppingCart color='white' fontSize={'1.5rem'}/>
-        <badge bg="danger">5</badge>
+        <Badge bg="danger">5</Badge>
     </div>
 }
 export default CartWidgetIcons

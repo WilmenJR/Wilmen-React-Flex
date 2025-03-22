@@ -7,7 +7,7 @@ const NavbarComponent = () => {
 <nav class="navbar bg-body-tertiary">
 <div class="container">
     <a class="navbar-brand" href="#">
-    <img src='./logo.png' alt='logo'></img>
+    <img src='./logo.png' alt='logo' style={{width:''}}/>
     </a>
 </div>
 </nav>
