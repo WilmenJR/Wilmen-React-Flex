@@ -3,8 +3,8 @@ import Item from './Item';
 
 const ItemList = ({data}) => {
     return (
-        <div>
-            {data.map((item)=> <Item key={item.id}/>)}
+        <div className='d-flex justify-content-around aling-items-center flex-wrap'>
+            {data.map((producto)=> <Item key={producto.id} producto={producto}/>)}
         </div>
     );
 }

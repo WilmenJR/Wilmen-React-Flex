@@ -6,7 +6,7 @@ const productos = [
         description: 'lorem lorem lorem',
         stock:10,
         category:'nuevos',
-        img: '../Logo.png'
+        img: 'https://picsum.photos/203'
     },
     {
         id:'02',
