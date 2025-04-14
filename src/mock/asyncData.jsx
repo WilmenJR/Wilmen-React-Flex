@@ -1,38 +1,38 @@
 const productos = [
     {
         id:'01',
-        name:'Random 1',
-        price:1000,
-        description: 'lorem lorem lorem',
+        name:'Iphone 16',
+        price:900,
+        description: 'Iphone 16 normal de 128gb',
         stock:10,
         category:'nuevos',
-        img: 'https://picsum.photos/203'
+        img: '../Iphone16.png'
     },
     {
         id:'02',
-        name:'Random 2',
-        price:5000,
-        description: 'lorem lorem lorem',
-        stock:20,
+        name:'Iphone 13 Pro Max',
+        price:400,
+        description: 'Iphone 13 Pro Max de 256gb',
+        stock:12,
         category:'mas vendidos',
-        img: 'https://picsum.photos/200'
+        img: '../Iphone13promax.png'
     },{
         id:'03',
-        name:'Random 3',
-        price:3000,
-        description: 'lorem lorem lorem',
-        stock:60,
+        name:'Iphone 14 Pro Max',
+        price:700,
+        description: 'Iphone 14 Pro Max de 256gb',
+        stock:15,
         category:'ofertas',
-        img: 'https://picsum.photos/201'
+        img: '../Iphone14max.png'
     },
     {
         id:'04',
-        name:'Random 4',
-        price:2500,
-        description: 'lorem lorem lorem',
-        stock:45,
+        name:'Iphone 15 Pro Max',
+        price:800,
+        description: 'Iphone 15 Pro Max de 128gb',
+        stock:8,
         category:'nuevos',
-        img: 'https://picsum.photos/202'
+        img: '../Iphone15pro.png'
     }
 ]
 
