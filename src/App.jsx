@@ -14,7 +14,7 @@ function App() {
     <CartProvider>
       <NavBarBootstrap/>
       <Routes>
-        <Route path='/' element={ <ItemListContainer greeting='Bienvenidos' />} />
+        <Route path='/' element={ <ItemListContainer greeting='Bienvenido a TecnoMovilX 📱' />} />
         <Route path='/category/:categoryId' element={ <ItemListContainer greeting='Seleccionaste la categoria:' />} />
         <Route path='/item/:id' element={<ItemDetailContainer/>}/>
         <Route path='/cart' element={<CartContainer/>}/>
