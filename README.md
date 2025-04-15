@@ -2,7 +2,7 @@
 
 Este es un proyecto sobre el curso de react flex para enseñar las bases de react con javascript en CoderHouse.
 
-![image](/public/README.PNG)
+![image](/public/README1.PNG)
 
 
 ### Instalacion
